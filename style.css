@@ -79,5 +79,5 @@ body{
     display: inline-block;
 }
 .container .card .box .content a:hover{
-    background: tomato;
+    background: #344E41;
 }
